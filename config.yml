@@ -1,0 +1,22 @@
+baseURL: "linux.jaybhogayata.me"
+languageCode: en-us
+title: Linux-Notes
+theme: PaperMod
+
+params:
+  cover:
+    linkfullImages: true
+
+  showBreadCrumbs: true
+  showReadingTime: true
+
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
