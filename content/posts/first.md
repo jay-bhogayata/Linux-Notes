@@ -24,14 +24,26 @@ tags: ["linux", "shell"]
 
 ```sh
 date    # 📅 Displays the current date and time
+```
+```sh
 cal     # 🗓️ Displays a calendar
+```
+```sh
 df      # 💽 Reports disk space usage
+```
+```sh
 df -h   # 💽 Reports disk space usage in human-readable format
+```
+```sh
 free    # 💾 Displays amount of free and used memory in the system
+```
+```sh
 free -h # 💾 Displays memory info in human-readable format
-
+```
+```sh
 man <command>   # 📖 Displays the manual page for a command 
-
+```
+```sh
 exit    # 🚪 Exits the shell or your current session
 ```
 ## ℹ️ Additional Information

@@ -4,11 +4,16 @@ title: Linux-Notes
 theme: PaperMod
 
 params:
+
+
   cover:
     linkfullImages: true
 
   showBreadCrumbs: true
   showReadingTime: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
 
 menu:
   main:
@@ -20,3 +25,13 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
