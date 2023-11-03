@@ -1,5 +1,5 @@
 ---
-title: "🐧 Introduction Linux Shell"
+title: "🐧 Introduction to Linux Shell"
 date: 2023-11-01T21:42:55+05:30
 draft: false
 tags: ["linux", "shell"]
