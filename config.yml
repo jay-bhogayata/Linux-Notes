@@ -4,7 +4,8 @@ title: Linux-Notes
 theme: PaperMod
 
 params:
-
+  homeInfoParams:
+    Title: "This site is a collection of notes on Linux"
 
   cover:
     linkfullImages: true
