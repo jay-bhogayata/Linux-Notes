@@ -16,6 +16,9 @@ params:
   ShowCodeCopyButtons: true
   ShowToc: true
 
+  assets:
+    favicon: "/img/linux.ico"
+
 menu:
   main:
     - identifier: tags
