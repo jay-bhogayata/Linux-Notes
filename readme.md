@@ -14,7 +14,10 @@ This repository is a compilation of various topics in Linux. It serves as a quic
 
 ## 📚 Contents
 
-- [01 - Introduction](/content/posts/first.md)
+- [01 - Introduction](/content/posts/01.md)
+- [02 - Navigating the File System in Linux](/content/posts/02.md)
+- [03 - Exploring the Linux file system ](/content/posts/03.md)
+- [04 - Demystifying the Key Directories in the Linux File System ](/content/posts/04.md)
 
 
 ## 🤝 Contributing
